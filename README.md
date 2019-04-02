@@ -1,8 +1,9 @@
 # JavaScript寺子屋の記録
+![寺子屋](./building_japan_school_terakoya.png)
 
 ## 概要
-JavaScriptおじさんの出す課題を解いた記録をするリポジトリ
-https://uncle-javascript.com/JS%20Terakoya
+JavaScriptおじさんの出す課題を解いた記録をするリポジトリ		
+https://uncle-javascript.com/JS%20Terakoya		
 https://uncle-javascript.com/article/
 
 ## Season1
