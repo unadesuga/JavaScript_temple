@@ -1,10 +1,10 @@
 <div style="text-align: center;">
-# JavaScript寺子屋の記録
+<h1>JavaScript寺子屋の記録</h1>
 <img src="./615-pictogram-illustration.jpg">
 </div>
 
 <div>
-## 概要
+<h2>概要</h2>
 JavaScriptおじさんの出す課題を解いた記録をするリポジトリ<br>
 https://uncle-javascript.com/JS%20Terakoya<br>
 https://uncle-javascript.com/article/
