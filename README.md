@@ -62,4 +62,10 @@ https://codesandbox.io/s/mo5no8l50j
 https://codesandbox.io/s/540rvxolrn
 
 #### JavaScript 寺子屋 16 / JavaScript の配列を作る
+https://codesandbox.io/s/pj2jqn3koq
+
+#### JavaScript 寺子屋 17 / JavaScript のオブジェクトを作る
+https://codesandbox.io/s/p5y2lpl89j
+
+#### JavaScript 寺子屋 18 / JavaScript の配列の中にオブジェクトをしまう
 
