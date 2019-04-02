@@ -51,3 +51,15 @@ https://codesandbox.io/s/82jpvkpok2
 
 #### JavaScript 寺子屋 13 / 関数の定義ファイルとテストの定義ファイルを分ける
 https://codesandbox.io/s/qx4x9x2x99
+
+
+## Season2
+
+#### JavaScript 寺子屋 14 / 型: 値の種類の基礎
+https://codesandbox.io/s/mo5no8l50j
+
+#### JavaScript 寺子屋 15 / 型: number, array, object, function
+https://codesandbox.io/s/540rvxolrn
+
+#### JavaScript 寺子屋 16 / JavaScript の配列を作る
+
