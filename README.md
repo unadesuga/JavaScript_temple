@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-<h1>JavaScript寺子屋の記録</h1>
-<img src="./615-pictogram-illustration.jpg">
+<div>
+<h1 style="text-align: center;">JavaScript寺子屋の記録</h1>
+<img src="./615-pictogram-illustration.jpg" style="text-align: center;" width="320px">
 </div>
 
 <div>
