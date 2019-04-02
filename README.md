@@ -1,7 +1,7 @@
-<div>
-<h1 style="text-align: center;">JavaScript寺子屋の記録</h1>
-<img src="./615-pictogram-illustration.jpg" style="text-align: center;" width="320px">
-</div>
+<h1 align="center">JavaScript寺子屋の記録</h1>
+<p align="center">
+	<img src="./615-pictogram-illustration.jpg" width="320px">
+</p>
 
 <div>
 <h2>概要</h2>
