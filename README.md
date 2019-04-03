@@ -69,3 +69,6 @@ https://codesandbox.io/s/p5y2lpl89j
 
 #### JavaScript 寺子屋 18 / JavaScript の配列の中にオブジェクトをしまう
 https://codesandbox.io/s/pp32ov4j60
+
+#### JavaScript 寺子屋 19 / JavaScript のオブジェクトの中に配列をしまう
+https://codesandbox.io/s/422145y8wx
