@@ -3,10 +3,12 @@
 	<img src="./615-pictogram-illustration.jpg" width="320px">
 </p>
 
-
+<div>
 <h2>概要</h2>
-JavaScriptおじさんの出す課題を解いた記録をするリポジトリ  [JavaScript寺子屋](https://uncle-javascript.com/JS%20Terakoya)  [JavaScript おじさん](https://uncle-javascript.com/article/)
-
+JavaScriptおじさんの出す課題を解いた記録をするリポジトリ<br>
+https://uncle-javascript.com/JS%20Terakoya<br>
+https://uncle-javascript.com/article/
+</div>
 
 
 ## Season1
