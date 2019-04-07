@@ -97,3 +97,8 @@ https://codesandbox.io/s/k3j2pn99ov
 #### [JavaScript 寺子屋 26 / React に向けて HTML, CSS の知識をつけよう](https://uncle-javascript.com/codesandbox-html-css)
 https://codesandbox.io/s/l43r5193rm
 
+#### [JavaScript 寺子屋 27 / DOM を操作する](https://uncle-javascript.com/codesandbox-dom-manipulation)
+https://codesandbox.io/s/5w278qro5l
+
+#### [JavaScript 寺子屋 28 / 初めての React](https://uncle-javascript.com/react-begining)
+https://codesandbox.io/s/0pjy39qxzl
